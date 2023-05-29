@@ -8,6 +8,7 @@
 
 ## 🦒 รูปภาพตัวอย่าง
 
+![preview screenshot](https://github.com/bagidea/stable_diffusion_automate1111/blob/master/all.png)
 ![webui screenshot](https://github.com/bagidea/stable_diffusion_automate1111/blob/master/webui.png)
 ![webui2 screenshot](https://github.com/bagidea/stable_diffusion_automate1111/blob/master/webui2.png)
 ![preview screenshot](https://github.com/bagidea/stable_diffusion_automate1111/blob/master/preview.png)
