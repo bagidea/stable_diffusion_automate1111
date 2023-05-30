@@ -7,9 +7,13 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bagidea/stable_diffusion_automate1111/blob/master/Add_model_stable_diffusion_automate1111.ipynb) | เพิ่ม Model
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bagidea/stable_diffusion_automate1111/blob/master/Controlnet_model_stable_diffusion_automate1111.ipynb) | เพิ่ม Controlnet Model
 
+![preview screenshot](https://github.com/bagidea/stable_diffusion_automate1111/blob/master/all.png)
+
 ## 🦒 รูปภาพตัวอย่าง
 
-![preview screenshot](https://github.com/bagidea/stable_diffusion_automate1111/blob/master/all.png)
 ![webui screenshot](https://github.com/bagidea/stable_diffusion_automate1111/blob/master/webui.png)
 ![webui2 screenshot](https://github.com/bagidea/stable_diffusion_automate1111/blob/master/webui2.png)
 ![preview screenshot](https://github.com/bagidea/stable_diffusion_automate1111/blob/master/preview.png)
+
+## Models License
+https://huggingface.co/spaces/CompVis/stable-diffusion-license
